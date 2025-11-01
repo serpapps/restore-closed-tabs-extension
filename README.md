@@ -2,6 +2,11 @@
 Restore / undo closed tabs on any browser simply and easily
 
 
+## Watch video 👇
+
+<a href="https://www.youtube.com/watch?v=VphC6bugLzs" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-reopen-restore-closed-tabs-in-any-browser-chrome-safari-firefox-no-extension-or-tools.jpg" width="700px">
+</a>
 
 
 ## Keywords
